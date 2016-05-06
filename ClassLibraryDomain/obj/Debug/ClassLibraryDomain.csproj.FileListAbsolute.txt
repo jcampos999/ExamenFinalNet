@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryDomain\bin\Debug\ClassLibraryDomain.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryDomain\bin\Debug\ClassLibraryDomain.pdb
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryDomain\obj\Debug\ClassLibraryDomain.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryDomain\obj\Debug\ClassLibraryDomain.pdb

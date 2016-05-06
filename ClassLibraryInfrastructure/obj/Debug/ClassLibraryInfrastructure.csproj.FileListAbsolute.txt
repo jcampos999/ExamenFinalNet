@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\ClassLibraryInfrastructure.dll.config
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\ClassLibraryInfrastructure.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\ClassLibraryInfrastructure.pdb
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\ClassLibraryDomain.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\ClassLibraryDomain.pdb
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\obj\Debug\ClassLibraryInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\obj\Debug\ClassLibraryInfrastructure.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\ClassLibraryInfrastructure\obj\Debug\ClassLibraryInfrastructure.pdb

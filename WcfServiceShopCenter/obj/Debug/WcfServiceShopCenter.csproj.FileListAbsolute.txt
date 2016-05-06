@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\WcfServiceShopCenter.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\WcfServiceShopCenter.pdb
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\Autofac.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\Autofac.Integration.Wcf.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\ClassLibraryDomain.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\ClassLibraryInfrastructure.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\EntityFramework.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\ClassLibraryDomain.pdb
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\ClassLibraryInfrastructure.pdb
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\Autofac.xml
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\Autofac.Integration.Wcf.xml
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\EntityFramework.xml
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\obj\Debug\WcfServiceShopCenter.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\obj\Debug\WcfServiceShopCenter.dll
+C:\Users\admin\Desktop\Practica .Net\06052016\WcfServiceShopCenter\obj\Debug\WcfServiceShopCenter.pdb
